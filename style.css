@@ -1,0 +1,8 @@
+.blue{
+
+box-shadow: inset 10px 10px 5px -5px gray;
+background-color: mediumseagreen;
+color: white;
+width: 300px;
+height: 100px;
+}
